@@ -1,0 +1,9 @@
+# Ignore all files from visual studio.
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+REIGN/x64/
+REIGN/Debug/
+x64/
